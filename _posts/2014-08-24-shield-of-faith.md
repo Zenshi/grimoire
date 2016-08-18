@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Shield of Faith"
-date: 2014-08-24
+title:  "Shield of Faith"
+date:   2014-08-24
 source: PHB.275
 tags: [cleric, paladin, level1, abjuration]
-
-=======
+---
 
 **1st-level abjuration**
 
